@@ -14,6 +14,9 @@ SleepSense is a machine learning-powered project that tracks and classifies slee
 + Streamlit (for UI)
 + Jupyter Notebook
 + CSV Accelerometer Data
+
+### Web App
+🔗 Live Demo:https://huggingface.co/spaces/saramneena/Smart_Sleep_Movement_and_State_Tracker
 ### How It Works
 + Preprocessing: Data is cleaned, normalized, and missing values handled.
 + ENMO Calculation: Used to detect intensity of movement.
